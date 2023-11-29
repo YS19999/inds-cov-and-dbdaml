@@ -9,4 +9,4 @@ We selected 10,100 representative data for annotation from a large amount of dat
 
 ## dbdaml
 
-The dbdaml code is in another branch
+The dbdaml code is in another branch.
