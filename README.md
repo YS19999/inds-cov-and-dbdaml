@@ -1,5 +1,5 @@
 # inds-cov-and-dbdaml
-paper: ***Few-shot Multi-domain Text Intent Classification with Dynamic Balance Domain Adaptation Meta-learning*** (under review by Expert Systems with Applications)
+paper: ***Few-shot Multi-domain Text Intent Classification with Dynamic Balance Domain Adaptation Meta-learning*** (Accepted by Expert Systems with Applications)
 ## InDs-CoV
 In this paper, we provide a manually annotated Chinese dataset InDs-CoV. It is the first Chinese intent classification dataset of the personal views and needs truly expressed by users on social media related to COVID-19, which is of great research significance.  
 
